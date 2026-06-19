@@ -13,6 +13,7 @@ To include your course, [submit a PR][]:
 
 ## English
 
+* [Flutter and Dart Full Course (11+ Hours)](https://www.youtube.com/watch?v=_FDJ1of5YPM) by Mouaz Alshahmeh
 * [20 Hour Dart & Flutter YT Course For Beginners][] by Rivaan Ranawat
 * [Best Dart Course][] by Tadas Petra & Robert Brunhage
 * [Best Flutter Course][] by Tadas Petra & Robert Brunhage
